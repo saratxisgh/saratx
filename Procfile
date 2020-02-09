@@ -1,0 +1,1 @@
+gunicorn web:app --bind 0.0.0.0:8000 -k gevent -w 10 --timeout=120
