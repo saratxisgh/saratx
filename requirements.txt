@@ -4,10 +4,12 @@ chardet==3.0.4
 Click==7.0
 Flask==1.1.1
 Flask-SQLAlchemy==2.4.1
+gevent==1.4.0
 google-api-python-client==1.7.11
 google-auth==1.11.0
 google-auth-httplib2==0.0.3
 google-auth-oauthlib==0.4.1
+greenlet==0.4.15
 gunicorn==20.0.4
 httplib2==0.17.0
 idna==2.8
